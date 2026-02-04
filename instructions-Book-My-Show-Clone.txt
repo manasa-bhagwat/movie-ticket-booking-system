@@ -56,5 +56,5 @@ Response:
 }
 -------------------------------------------------------------------------------------------------------------
 
-sonarQube token:sqa_f35b03e0f83c90ec1410d171170f017f475bee51
-mvn clean verify sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=sqa_f35b03e0f83c90ec1410d171170f017f475bee51
+sonarQube token:********
+mvn clean verify sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=*************
